@@ -1,3 +1,3 @@
 #Recommendation app
 
-You can view this recommendation app here: https://otsfm.csb.app/
+You can view this recommendation app here:https://jvcpv.csb.app/
